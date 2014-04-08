@@ -6,8 +6,11 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
+这是第一个测试程序
+================================
 * System dependencies
+从此打开程序开发大门
+--------------------------------
 
 * Configuration
 
